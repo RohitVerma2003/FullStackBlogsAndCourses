@@ -3,6 +3,13 @@
 This project is a full-stack web application designed for blog and course management, featuring an intuitive admin panel and user authentication via OTP. Built using React, Node.js, and MySQL, this platform allows users to explore blogs and courses, make purchases, and interact through a seamless interface.
 
 ## Table of Contents
+
+
+https://github.com/user-attachments/assets/f6921a19-5b7e-451d-997d-70528a8f3fab
+
+
+
+## Table of Contents
 - [Features](#features)
 - [Pages](#pages)
 - [Database Schema](#database-schema)
