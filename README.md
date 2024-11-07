@@ -15,7 +15,6 @@ https://github.com/user-attachments/assets/f6921a19-5b7e-451d-997d-70528a8f3fab
 - [Database Schema](#database-schema)
 - [Backend API Routes](#backend-api-routes)
 - [Installation](#installation)
-- [Technologies Used](#technologies-used)
 
 ## Features
 - **Home Page:** Displays blogs, with data fetched from the backend.
