@@ -55,7 +55,7 @@ The backend includes the following API routes:
 
 1. **Clone the repository**:
    ```bash
-     git clone https://github.com/your-username/your-repo-name.git
+     git clone https://github.com/RohitVerma2003/FullStackBlogsAndCourses.git
    ```
 2. **Navigate to the project directory**
    ```bash
